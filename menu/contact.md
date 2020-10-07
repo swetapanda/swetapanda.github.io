@@ -2,5 +2,5 @@
 layout: page
 title: Contact
 ---
-I can be reached at 
+<span style="font-family: 'verdana'; font-size: 15px;">I can be reached at this email address.</span>
 

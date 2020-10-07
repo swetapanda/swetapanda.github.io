@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![image](assets/img/picture_profile.jpg){:height="25%" width="25%"}
+![image](assets/img/picture_profile.JPG){:height="5%" width="5%"}
 
 
 

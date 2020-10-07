@@ -11,9 +11,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
+- {name: 'Home', path: '.', url: ''}
 - {name: 'Publications', path: 'menu', url: 'publications.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
-#- {name: 'Home', path: '.', url: ''}
 #menu:
 #- {name: 'Home', path: 'menu', url: 'home.html'}
 

@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### <span style="font-family: 'centurygothic'; font-size: 17px;">Conference Publications</span>
+<span style="font-family: 'centurygothic'; font-size: 20px;">Conference Publications</span>
 
 * <span style="color: orange; font-family: 'centurygothic'; font-size: 17px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC 2019 </b></small> <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>

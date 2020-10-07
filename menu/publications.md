@@ -4,7 +4,7 @@ layout: page
 
 ### Conference Publications
 
-* <span style="color:&#x1F4D8">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC 2019 </b></small> <br />
+* <span style="color: red; font-family: 'centurygothic'; font-size: 17px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC 2019 </b></small> <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
 * Scalable initial state interdiction for factored MDPs. <small><b>IJCAI 2018</b></small> [.pdf](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>

@@ -8,16 +8,16 @@ layout: page
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
 * <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI 2018</b></small> [.pdf](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
-* Near-optimal interdiction of factored MDPs. <small><b>UAI 2017</b></small> [.pdf](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
+* <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Near-optimal interdiction of factored MDPs.</span> <small><b>UAI 2017</b></small> [.pdf](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
-* Stackelberg games for vaccine design. <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
+* <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Stackelberg games for vaccine design.</span> <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-* Designing vaccines that are robust to virus escape. <small><b>AAAI 2015</b></small> <br />
+* <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Designing vaccines that are robust to virus escape.</span> <small><b>AAAI 2015</b></small> <br />
 <small> Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-* Robust optic nerve segmentation on clinically acquired CT. <small><b>SPIE 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
+* <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Robust optic nerve segmentation on clinically acquired CT.</span> <small><b>SPIE 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 <small>  Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman.</small>
 

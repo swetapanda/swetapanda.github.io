@@ -19,7 +19,7 @@ Bennett A. Landman.</small>
 
 ### Journal Publications
 
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Integrating machine learning with structural modeling to increase HIV neutralization breadth.</span><small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Integrating machine learning with structural modeling to increase HIV neutralization breadth.</span><small><b> PLOS CompBio 2018</b></small> [<img src="pdf_icon.png" width="2%" height="2%">](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
 <small> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.</small>
 * Evaluation of multi-atlas label fusion for MRI orbital segmentation. <small><b> JMI 2014</b></small> [<img src="pdf_icon.png" width="2%" height="2%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
 <small>Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
@@ -36,6 +36,6 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 <small><b>Spring Symposium on Applied Computational Game Theory</b> </small> <br />
 <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-* Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI 2013</b></small> [.pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
+* Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI 2013</b></small> [<img src="pdf_icon.png" width="2%" height="2%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
 <small>Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman.</small>

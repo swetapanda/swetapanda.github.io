@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<span style="font-family: 'centurygothic'; font-size: 20px;">Conference Publications</span>
+### Conference Publications
 
 * <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC 2019 </b></small> <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
@@ -23,7 +23,7 @@ Bennett A. Landman.</small>
 
 ### Journal Publications
 
-* Integrating machine learning with structural modeling to increase HIV neutralization breadth.<small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
+* <span style="color: blue; font-family: 'centurygothic'; font-size: 17px;">Integrating machine learning with structural modeling to increase HIV neutralization breadth.</span><small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
 <small> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.</small>
 * Evaluation of multi-atlas label fusion for MRI orbital segmentation. <small><b> JMI 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
 <small>Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth

@@ -1,3 +1,7 @@
+title: Swetasudha Panda
+author:
+  name: "Swetasudha Panda"
+
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
@@ -7,7 +11,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Home', path: 'menu', url: 'home.html'}
+- {name: 'Home', path: '.', url: ''}
+#menu:
+#- {name: 'Home', path: 'menu', url: 'home.html'}
 - {name: 'Publications', path: 'menu', url: 'publications.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 

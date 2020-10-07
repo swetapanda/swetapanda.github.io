@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Conference Publications
+### <span style="color:blue">Conference Publications</span>
 
 * Scaling Hierarchical Coreference with Homomorphic Compression. <small><b>AKBC 2019 </b></small> <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>

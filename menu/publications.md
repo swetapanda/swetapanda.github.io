@@ -6,9 +6,9 @@ layout: page
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC'19 </b></small><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI'18</b></small> [pdf](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
-  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+ <span style="color: blue; font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Near-optimal interdiction of factored MDPs.</span> <small><b>UAI 2017</b></small> [.pdf](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
-  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+<span style="color: blue; font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for vaccine design.</span> <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Designing vaccines that are robust to virus escape.</span> <small><b>AAAI 2015</b></small> <br />

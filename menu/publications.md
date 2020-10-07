@@ -5,17 +5,17 @@ title: Publications
 
 ### Conference Publications
 
-1. Scaling Hierarchical Coreference with Homomorphic Compression. <small><b>AKBC 2019 </b></small> <br />
+* Scaling Hierarchical Coreference with Homomorphic Compression. <small><b>AKBC 2019 </b></small> <br />
   <small>Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</small>
-1. Scalable initial state interdiction for factored MDPs. <small><b>IJCAI 2018</b></small> [.pdf](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
+* Scalable initial state interdiction for factored MDPs. <small><b>IJCAI 2018</b></small> [.pdf](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
-1. Near-optimal interdiction of factored MDPs. <small><b>UAI 2017</b></small> [.pdf](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
+* Near-optimal interdiction of factored MDPs. <small><b>UAI 2017</b></small> [.pdf](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
   
-1. Stackelberg games for vaccine design. <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
+* Stackelberg games for vaccine design. <small><b>AAMAS 2015</b></small> [.pdf](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
   <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-1. Designing vaccines that are robust to virus escape. <small><b>AAAI 2015</b></small> <br />
+* Designing vaccines that are robust to virus escape. <small><b>AAAI 2015</b></small> <br />
 <small> Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
 1. Robust optic nerve segmentation on clinically acquired CT. <small><b>SPIE 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
@@ -24,9 +24,9 @@ Bennett A. Landman.</small>
 
 <h3>Journal Publications</h3>
 
-1. Integrating machine learning with structural modeling to increase HIV neutralization breadth.<small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
+* Integrating machine learning with structural modeling to increase HIV neutralization breadth.<small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
 <small> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.</small>
-1. Evaluation of multi-atlas label fusion for MRI orbital segmentation. <small><b> JMI 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
+* Evaluation of multi-atlas label fusion for MRI orbital segmentation. <small><b> JMI 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
 <small>Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
 A. Smith, Bennett A. Landman. </small>
 1. Robust optic nerve segmentation on clinically acquired CT.<small><b> JMI 2014</b></small> [.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />

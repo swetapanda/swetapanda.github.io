@@ -11,11 +11,12 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
+- {name: 'Publications', path: 'menu', url: 'publications.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
 #- {name: 'Home', path: '.', url: ''}
 #menu:
 #- {name: 'Home', path: 'menu', url: 'home.html'}
-- {name: 'Publications', path: 'menu', url: 'publications.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### Conference Publications
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC'19 </b></small><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ijcai.org/proceedings/2018/0667.pdf)</br><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scaling Hierarchical Coreference with Homomorphic Compression.</span> <small><b>AKBC'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ijcai.org/proceedings/2018/0667.pdf)</br><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI'18</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
  <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>

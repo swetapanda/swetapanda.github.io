@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 ---
 
 ### Conference Publications
@@ -22,7 +21,7 @@ title:
 <small>  Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman.</small>
 
-<h3>Journal Publications</h3>
+### Journal Publications
 
 * Integrating machine learning with structural modeling to increase HIV neutralization breadth.<small><b> PLOS CompBio 2018</b></small> [.pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
 <small> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.</small>
@@ -33,7 +32,7 @@ A. Smith, Bennett A. Landman. </small>
 <small>Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 
-<h3>Workshops</h3>
+### Workshops
 * Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small> <br />
 <small>Swetasudha Panda.</small>
 

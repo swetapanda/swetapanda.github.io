@@ -2,10 +2,7 @@
 layout: page
 ---
 
-![image](assets/img/picture_profile.JPG){:height="20%" width="20%"}
-
-
-
+<img style="float: right;" src="assets/img/picture_profile.JPG">
 I am a research scientist at [Oracle Labs, Machine Learning Research Group](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7).  Previously, I received a Ph.D. in Computer Science from [Vanderbilt University](https://engineering.vanderbilt.edu/eecs/), where I was fortunate to be advised by Professor [Yevgeniy Vorobeychik](http://vorobeychik.com/). I graduated with B.Tech. in Electrical Engineering from [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/).  
 
 My current research is on machine learning and algorithmic fairness. My research interests span computational game theory, stochastic planning and markov decision processes (MDPs), machine learning, reinforcement learning, optimization and artificial intelligence.

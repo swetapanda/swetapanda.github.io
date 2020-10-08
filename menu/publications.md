@@ -35,7 +35,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Game theoretic antibody design.</span> <small><b> AAMAS'19</b></small>[<img src="pdf_icon.png" width="3%" height="3%">](http://swetapanda.github.io/menu/paper.pdf) <br />
  <span style="font-family: 'verdana'; font-size: 12px;"><b>AI for Social Good</b></span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> NeurIPS'18</b></small> 
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> NeurIPS'18</b></small> <br />
 <span style="font-family: 'verdana'; font-size: 12px;"><b>Women in Machine Learning</b> </span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda.</span>
 

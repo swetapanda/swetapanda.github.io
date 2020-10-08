@@ -28,7 +28,14 @@ A. Smith, Bennett A. Landman. </small>
 <small>Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</small>
 
-### Workshops
+### Workshop Presentations
+
+* Using Bayes factors to control for fairness: case study on learning to rank. <small><b> NeurIPS 2019</b></small> <br />
+<small>Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</small>
+Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
+* Game theoretic antibody design. <small><b> AAMAS 2019</b></small> <br />
+<small>Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</small>
+Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
 * Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small> <br />
 <small>Swetasudha Panda.</small>
 

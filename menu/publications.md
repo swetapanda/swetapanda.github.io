@@ -32,7 +32,8 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Using Bayes factors to control for fairness: case study on learning to rank.</span> <small><b> NeurIPS'19</b></small>[<img src="pdf_icon.png" width="3%" height="3%">](http://swetapanda.github.io/menu/robust19.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;"><b> Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy</b></span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Game theoretic antibody design.</span> <small><b> AAMAS'19</b></small>[<img src="pdf_icon.png" width="3%" height="3%">](http://swetapanda.github.io/menu/paper.pdf) <br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Game theoretic antibody design.</span> <small><b> AAMAS'19</b></small>[<img src="pdf_icon.png" width="3%" height="3%">](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
+) <br />
  <span style="font-family: 'verdana'; font-size: 12px;"><b>AI for Social Good</b></span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> NeurIPS'18</b></small> <br />

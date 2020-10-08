@@ -40,7 +40,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for antibody design.</span><small><b> AAAI'15 </b> </small> <br />
-<span style="font-family: 'verdana'; font-size: 12px;"><b>Spring Symposium on Applied Computational Game Theory</b> </span> <br />
+<span style="font-family: 'verdana'; font-size: 12px;"><b>Spring Symposium on Applied Computational Game Theory</b> </span> 
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Regression forest region recognition enhances multi-atlas spleen labeling.</span>  <small><b>MICCAI'13</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;"><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </span> 

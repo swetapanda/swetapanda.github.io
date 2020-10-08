@@ -10,12 +10,12 @@ layout: page
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Near-optimal interdiction of factored MDPs.</span> <small><b>UAI 2017</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for vaccine design.</span> <small><b>AAMAS 2015</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
-  <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+ <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Designing vaccines that are robust to virus escape.</span> <small><b>AAAI 2015</b></small> <br />
-<small> Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Robust optic nerve segmentation on clinically acquired CT.</span> <small><b>SPIE 2014</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
-<small>  Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
-Bennett A. Landman.</small>
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
+Bennett A. Landman.</span>
 
 ### Journal Publications
 

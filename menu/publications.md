@@ -32,11 +32,12 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Using Bayes factors to control for fairness: case study on learning to rank.</span> <small><b> NeurIPS'19</b></small> <br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</span>
-<span style="font-family: 'verdana'; font-size: 12px;">Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy</span>
+<span style="font-family: 'verdana'; font-size: 12px;"><b>Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy<b></span>
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Game theoretic antibody design.</span> <small><b> AAMAS'19</b></small> <br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</span>
-<span style="font-family: 'verdana'; font-size: 12px;">Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> WiML'18</b></small> <br />
+<span style="font-family: 'verdana'; font-size: 12px;">AI for Social Good</span>
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> NeurIPS'18</b></small> <br />
+<span style="font-family: 'verdana'; font-size: 12px;"><b>Women in Machine Learning</b> </span> <br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for antibody design.</span><small><b> AAAI'15 </b> </small> <br />

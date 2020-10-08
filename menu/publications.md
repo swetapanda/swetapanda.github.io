@@ -19,12 +19,12 @@ Bennett A. Landman.</span>
 
 ### Journal Publications
 
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Integrating machine learning with structural modeling to increase HIV neutralization breadth.</span><small><b> PLOS CompBio'18</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 18px;">Integrating machine learning with structural modeling to increase HIV neutralization breadth.</span><small><b> PLOS CompBio'18</b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Evaluation of multi-atlas label fusion for MRI orbital segmentation.</span> <small><b> JMI'14</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 18px;">Evaluation of multi-atlas label fusion for MRI orbital segmentation.</span> <small><b> JMI'14</b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
 A. Smith, Bennett A. Landman.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Robust optic nerve segmentation on clinically acquired CT.</span><small><b> JMI'14</b></small> [<img src="pdf_icon.png" width="3%" height="2%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 18px;">Robust optic nerve segmentation on clinically acquired CT.</span><small><b> JMI'14</b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 

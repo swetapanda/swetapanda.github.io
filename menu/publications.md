@@ -3,17 +3,17 @@ layout: page
 ---
 
 ### Conference Publications
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Unlocking fairness: a trade-off revisited.</span> <small><b>NeurIPS'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scaling hierarchical coreference with homomorphic compression.</span> <small><b>AKBC'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI'18</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
+* <span style="font-family: 'verdana'; font-size: 15px;">Unlocking fairness: a trade-off revisited.</span> <small><b>NeurIPS'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
+* <span style=" font-family: 'verdana'; font-size: 15px;">Scaling hierarchical coreference with homomorphic compression.</span> <small><b>AKBC'19 </b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
+* <span style=" font-family: 'verdana'; font-size: 15px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI'18</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
  <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Near-optimal interdiction of factored MDPs.</span> <small><b>UAI'17</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
+* <span style=" font-family: 'verdana'; font-size: 15px;">Near-optimal interdiction of factored MDPs.</span> <small><b>UAI'17</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for vaccine design.</span> <small><b>AAMAS'15</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
+* <span style="font-family: 'verdana'; font-size: 15px;">Stackelberg games for vaccine design.</span> <small><b>AAMAS'15</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
  <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Designing vaccines that are robust to virus escape.</span> <small><b>AAAI'15</b></small> <br />
+* <span style=" font-family: 'verdana'; font-size: 15px;">Designing vaccines that are robust to virus escape.</span> <small><b>AAAI'15</b></small> <br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
-* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Robust optic nerve segmentation on clinically acquired CT.</span> <small><b>SPIE'14</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
+* <span style=" font-family: 'verdana'; font-size: 15px;">Robust optic nerve segmentation on clinically acquired CT.</span> <small><b>SPIE'14</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman.</span>
 

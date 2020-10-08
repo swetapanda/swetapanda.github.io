@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### Conference Publications
-* <span style="font-family: 'verdana'; font-size: 18px;">Unlocking fairness: a trade-off revisited.</span> <small><b>NeurIPS'19 </b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
+* <span style="font-family: 'verdana'; font-size: 18px;">Unlocking fairness: a trade-off revisited.</span> <b>NeurIPS'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
 * <span style=" font-family: 'verdana'; font-size: 18px;">Scaling hierarchical coreference with homomorphic compression.</span> <small><b>AKBC'19 </b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
 * <span style=" font-family: 'verdana'; font-size: 18px;">Scalable initial state interdiction for factored MDPs.</span> <small><b>IJCAI'18</b></small> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ijcai.org/proceedings/2018/0667.pdf)<br />
  <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>

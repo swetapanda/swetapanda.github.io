@@ -30,19 +30,19 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.</span>
 
 ### Workshop Presentations
 
-* Using Bayes factors to control for fairness: case study on learning to rank. <small><b> NeurIPS 2019</b></small> <br />
-<small>Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</small>
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Using Bayes factors to control for fairness: case study on learning to rank.</span> <small><b> NeurIPS 2019</b></small> <br />
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</span>
 Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
-* Game theoretic antibody design. <small><b> AAMAS 2019</b></small> <br />
-<small>Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</small>
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Game theoretic antibody design.</span> <small><b> AAMAS 2019</b></small> <br />
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</span>
 Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> WiML 2018</b></small> <br />
-<small>Swetasudha Panda.</small>
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for antibody design.</span><small><b> AAAI 2015 </b> </small> <br />
 <small><b>Spring Symposium on Applied Computational Game Theory</b> </small> <br />
-<small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda and Yevgeniy Vorobeychik.</span>
 
 * <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Regression forest region recognition enhances multi-atlas spleen labeling.</span>  <small><b>MICCAI 2013</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
-<small>Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
-Bennett A. Landman.</small>
+<span style="font-family: 'verdana'; font-size: 12px;">Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
+Bennett A. Landman.</span>

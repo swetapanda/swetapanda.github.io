@@ -36,13 +36,13 @@ Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness
 * Game theoretic antibody design. <small><b> AAMAS 2019</b></small> <br />
 <small>Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</small>
 Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy
-* Scalable initial state interdiction for factored MDPs. <small><b> WiML 2018</b></small> <br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Scalable initial state interdiction for factored MDPs.</span> <small><b> WiML 2018</b></small> <br />
 <small>Swetasudha Panda.</small>
 
-* Stackelberg games for antibody design.<small><b> AAAI 2015 </b> </small> <br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Stackelberg games for antibody design.</span><small><b> AAAI 2015 </b> </small> <br />
 <small><b>Spring Symposium on Applied Computational Game Theory</b> </small> <br />
 <small>Swetasudha Panda and Yevgeniy Vorobeychik.</small>
 
-* Regression forest region recognition enhances multi-atlas spleen labeling.  <small><b>MICCAI 2013</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
+* <span style="color: blue; font-family: 'verdana'; font-size: 14px;">Regression forest region recognition enhances multi-atlas spleen labeling.</span>  <small><b>MICCAI 2013</b></small> [<img src="pdf_icon.png" width="3%" height="3%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br /> <small><b>Challenge Workshop on Segmentation: Algorithms, Theory and Applications</b> </small> <br />
 <small>Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman.</small>

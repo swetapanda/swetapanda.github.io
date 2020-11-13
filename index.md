@@ -13,10 +13,10 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 * <b>Unlocking Fairness: A Trade-off Revisited.</b>Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS2019) </b> [[<span style="color:blue">PDF</span>]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">BibTex</span>]<br /> 
 * <b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b>Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani. NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy <b>(Robust AI in FS 2019)</b>. [[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/robust19.pdf)
 * <b>Scaling Hierarchical Coreference With Homomorphic Compression.<\b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Conference on Automated Knowledge Base Construction <b>(AKBC2019)</b>. [[<span style="color:blue">PDF</span>]](https://openreview.net/pdf?id=H1gwRx5T6Q)[[<span style="color:blue">BibTex</span>]]
-* Game theoretic antibody design. <b> AAMAS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
-) <br />
-Workshop on AI for Social Good.
-Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
+* <b>Game theoretic antibody design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
+Joint Workshop on 
+Autonomous Agents for Social Good <b>(AASG2019)</b>.[[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
+) 
 * Scalable initial state interdiction for factored MDPs.<b> NeurIPS'18</b> <br />
 Women in Machine Learning Workshop. 
 Swetasudha Panda.

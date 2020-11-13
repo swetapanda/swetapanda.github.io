@@ -6,7 +6,7 @@ I am a research scientist at the [<span style="color:blue">Machine Learning Rese
 
 My research interests span algorithmic fairness, machine learning, stochastic planning and computational game theory. 
 
-## Publications
+# Publications
 
 * [<span style="color:blue">Online Post-Processing In Rankings For Fair Utility Maximization.</span>]() The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. <br />
 * [<span style="color:blue">Fair Online Post-Processing for Black-Box ML Screening Systems.</span>]()<b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. <br />

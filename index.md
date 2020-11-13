@@ -8,9 +8,9 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.</div>
+* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.</div>
 
-* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women in Machine Learning Workshop <b>(WiML 2020)</b>.</div>
+* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women In Machine Learning Workshop <b>(WiML 2020)</b>.</div>
 
 * <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
  <a href="https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf"><span style="color:blue">[<b>PDF</b>]</span></a>
@@ -25,7 +25,7 @@ Joint Workshop on
 Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[<b>PDF</b>]</span>](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
 ) </div>
 
-* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda. 13th Women in Machine Learning Workshop <b>(WiML 2018)</b>.</div>
+* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda. Women In Machine Learning Workshop <b>(WiML 2018)</b>.</div>
 
 * <div style="text-align: justify"><b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()</div>
 

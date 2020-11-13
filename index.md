@@ -38,7 +38,7 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.
  
 * <div style="text-align: justify"><b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. <a href="http://www.vorobeychik.com/2015/abdesign.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
  
-*<div style="text-align: justify"> <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract, Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
+* <div style="text-align: justify"> <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract, Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
 Spring Symposium on Applied Computational Game Theory. </div>
 
 * <div style="text-align: justify"><b>Robust Optic Nerve Segmentation On Clinically Acquired CT.</b> Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,

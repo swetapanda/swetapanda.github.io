@@ -8,11 +8,11 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.</div>
+* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.</div>
 
-* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020)</b>.</div>
+* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women in Machine Learning Workshop <b>(WiML 2020)</b>.</div>
 
-* <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. 33rd Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
+* <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
  <a href="https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf"><span style="color:blue">[<b>PDF</b>]</span></a>
  [<span style="color:blue">[<b>PDF</b>]</span>]()</div>
 
@@ -29,7 +29,7 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 
 * <div style="text-align: justify"><b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()</div>
 
-* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:uvay10AkKTMJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_Sl6s:AAGBfm0AAAAAX67Xj6u8qx_k7hTPQc434NEVMSDGxqcu&scisig=AAGBfm0AAAAAX67Xj-wsxdpU_U3-k3AInwJJtMxjTlT4&scisf=4&ct=citation&cd=-1&hl=en)</div>
+* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:uvay10AkKTMJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_Sl6s:AAGBfm0AAAAAX67Xj6u8qx_k7hTPQc434NEVMSDGxqcu&scisig=AAGBfm0AAAAAX67Xj-wsxdpU_U3-k3AInwJJtMxjTlT4&scisf=4&ct=citation&cd=-1&hl=en)</div>
  
 * <div style="text-align: justify"><b>Integrating Machine Learning With Structural Modeling To Increase HIV Neutralization Breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:Tap6WoW2jw8J:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_S0OA:AAGBfm0AAAAAX67XyOCBc-NhuMNOYzc8VXX-wtx8SFmC&scisig=AAGBfm0AAAAAX67XyH5x0vEKJCvMzFzSosANv81nJI1N&scisf=4&ct=citation&cd=-1&hl=en)</div>
 
@@ -38,7 +38,7 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 
 * <div style="text-align: justify"><b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:FbvxWk9XFBUJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_S5hM:AAGBfm0AAAAAX67X_hOl2ecapnPTrePM5BdJI3dqC4NM&scisig=AAGBfm0AAAAAX67X_n_0wjf2ECL_MAKFGftuB5czEwVK&scisf=4&ct=citation&cd=-1&hl=en)</div>
 
-*<div style="text-align: justify"> <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract at the 29th Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
+*<div style="text-align: justify"> <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract, Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
 Spring Symposium on Applied Computational Game Theory. </div>
 
 * <div style="text-align: justify"><b>Robust Optic Nerve Segmentation On Clinically Acquired CT.</b> Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,

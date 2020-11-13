@@ -12,11 +12,11 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 * <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020)</b>.
 
-* <b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b> [<span style="color:blue">[<b>PDF</b>]</span>](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]
+* <b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b> [<span style="color:blue">[<b>PDF</b>]</span>](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 * <b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b> Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani. NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy <b>(Robust AI in FS 2019)</b>. [[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/robust19.pdf)
 
-* <b>Scaling Hierarchical Coreference With Homomorphic Compression.</b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Conference on Automated Knowledge Base Construction <b>(AKBC 2019)</b>. [<span style="color:blue">[PDF]</span>](https://openreview.net/pdf?id=H1gwRx5T6Q)[<span style="color:blue">[BibTex]</span>]
+* <b>Scaling Hierarchical Coreference With Homomorphic Compression.</b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Conference on Automated Knowledge Base Construction <b>(AKBC 2019)</b>. [<span style="color:blue">[PDF]</span>](https://openreview.net/pdf?id=H1gwRx5T6Q)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 * <b>Game theoretic antibody design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
 Joint Workshop on 
@@ -25,9 +25,9 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[[<span style="color:blue">
 
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda. 13th Women in Machine Learning Workshop <b>(WiML 2018)</b>.
 
-* <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>Bibtex</b>]</span>]()<br />
+* <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
  
-* <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>Bibtex</b>]</span>]()
+* <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 * <b>Near-optimal interdiction of factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 

@@ -8,21 +8,27 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. <span style="color:blue">[<b>PDF</b>]</span> <span style="color:blue">[<b>BibTex</b>]</span><br />
-* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020)</b>.<br />
-* <b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b> [[<span style="color:blue">PDF</span>]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">BibTex</span>]<br /> 
+* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. <span style="color:blue">[<b>PDF</b>]</span> <span style="color:blue">[<b>BibTex</b>]</span>
+
+* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020)</b>.
+
+* <b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b> [<span style="color:blue">[<b>PDF</b>]</span>](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]
+
 * <b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b> Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani. NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy <b>(Robust AI in FS 2019)</b>. [[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/robust19.pdf)
+
 * <b>Scaling Hierarchical Coreference With Homomorphic Compression.</b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Conference on Automated Knowledge Base Construction <b>(AKBC 2019)</b>. [<span style="color:blue">[PDF]</span>](https://openreview.net/pdf?id=H1gwRx5T6Q)[<span style="color:blue">[BibTex]</span>]
+
 * <b>Game theoretic antibody design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
 Joint Workshop on 
 Autonomous Agents for Social Good <b>(AASG 2019)</b>.[[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
 ) 
+
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda. 13th Women in Machine Learning Workshop <b>(WiML 2018)</b>.
 
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>Bibtex</b>]</span>]()<br />
  
-* <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.<b> PLOS CompBio'18</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>Bibtex</b>]</span>]()<br />
-Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik.
+* <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>Bibtex</b>]</span>]()
+
 * Near-optimal interdiction of factored MDPs. <b>UAI'17</b> [<img src="pdf_icon.png" width="4%" height="4%">](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
 Swetasudha Panda and Yevgeniy Vorobeychik.
 * Stackelberg games for vaccine design. <b>AAMAS'15</b> [<img src="pdf_icon.png" width="4%" height="4%">](http://www.vorobeychik.com/2015/abdesign.pdf)<br />

@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-* Online Post-Processing In Rankings For Fair Utility Maximization.  <i>The 14th ACM International Conference On Web Search And Data Mining </i> <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan.
+* <red>Online Post-Processing In Rankings For Fair Utility Maximization. </red> <i>The 14th ACM International Conference On Web Search And Data Mining </i> <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan.
 * Fair Online Post-Processing for Black-Box ML Screening Systems.<b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan.
 * Unlocking Fairness: A Trade-off Revisited. <b>NeurIPS'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
 * <span style="font-family: 'verdana'; font-size: 18px;">Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</span> <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;"> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.</span>

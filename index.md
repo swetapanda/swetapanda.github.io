@@ -25,7 +25,7 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda. 13th Women in Machine Learning Workshop <b>(WiML 2018)</b>.
 
-* <b>Algorithms For Large Scale Adversarial Decision Problems</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()
+* <b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()
 
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
  
@@ -34,7 +34,7 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 * <b>Near-optimal interdiction of factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 
-* <b>Stackelberg games for vaccine design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)[<b>BibTex</b>]</span>]()
+* <b>Stackelberg games for vaccine design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 
 * <b>Stackelberg games for antibody design.</b> Swetasudha Panda and Yevgeniy Vorobeychik.<b> AAAI 2015 </b>  

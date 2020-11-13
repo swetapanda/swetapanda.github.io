@@ -21,7 +21,7 @@ body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 14px;
   color: #515151;
-  line-height: 0.80rem;
+  line-height: 0.95rem;
 }
 
 @media (max-width: 30em) {

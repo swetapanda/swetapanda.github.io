@@ -29,15 +29,15 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[[<span style="color:blue">
  
 * <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>Bibtex</b>]</span>]()
 
-* Near-optimal interdiction of factored MDPs. <b>UAI'17</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
-Swetasudha Panda and Yevgeniy Vorobeychik.
+* <b>Near-optimal interdiction of factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)[<span style="color:blue">[<b>Bibtex</b>]</span>]()
 
-* Stackelberg games for vaccine design. <b>AAMAS'15</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
-Swetasudha Panda and Yevgeniy Vorobeychik.
 
-* Stackelberg games for antibody design.<b> AAAI'15 </b>  <br />
+* <b>Stackelberg games for vaccine design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)[<b>Bibtex</b>]</span>]()
+
+
+* <b>Stackelberg games for antibody design.</b> Swetasudha Panda and Yevgeniy Vorobeychik.<b> AAAI 2015 </b>  
 Spring Symposium on Applied Computational Game Theory. 
-Swetasudha Panda and Yevgeniy Vorobeychik.
+
 
 * Designing vaccines that are robust to virus escape.<b>AAAI'15</b> <br />
 Swetasudha Panda and Yevgeniy Vorobeychik.

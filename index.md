@@ -8,8 +8,8 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21)</b>. [<span style="color:blue">PDF</span>] [<span style="color:blue">BibTex</span>]<br />
-* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b>Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop.<b>WiML'20 </b><br />
+* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. [<span style="color:blue">PDF</span>] [<span style="color:blue">BibTex</span>]<br />
+* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b>Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020) </b><br />
 * <b>Unlocking Fairness: A Trade-off Revisited.</b>Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Thirty-third Conference on Neural Information Processing Systems <b>(NeurIPS'19) </b> [[<span style="color:blue">PDF</span>]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)[<span style="color:blue">BibTex</span>]<br /> 
 * <b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b>Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani. <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.
 [[<span style="color:blue">PDF</span>]](http://swetapanda.github.io/menu/robust19.pdf)

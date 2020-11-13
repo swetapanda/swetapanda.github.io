@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-* [<span style="color:blue">Online Post-Processing In Rankings For Fair Utility Maximization.</span>]() The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. <br />
-* [<span style="color:blue">Fair Online Post-Processing for Black-Box ML Screening Systems.</span>]()<b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. <br />
-* [<span style="color:blue">Unlocking Fairness: A Trade-off Revisited.</span>](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf) <b>NeurIPS'19 </b> [[PDF]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br />Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. <br />
+* <span style="color:blue">Online Post-Processing In Rankings For Fair Utility Maximization.</span> The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. <br />
+* <span style="color:blue">Fair Online Post-Processing for Black-Box ML Screening Systems.</span><b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. <br />
+* <span style="color:blue">Unlocking Fairness: A Trade-off Revisited.</span> <b>NeurIPS'19 </b> [[<span style="color:blue">PDF<\span>]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br />Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. <br />
 * Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank. <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.
 Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani.
 * Scaling Hierarchical Coreference With Homomorphic Compression.<b>AKBC'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br />Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.

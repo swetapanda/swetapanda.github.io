@@ -4,7 +4,7 @@ layout: page
 
 * <span style="font-family: 'verdana'; font-size: 18px;">Unlocking fairness: a trade-off revisited.</span> <b>NeurIPS'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
 * <span style="font-family: 'verdana'; font-size: 18px;">Using Bayes factors to control for fairness: case study on learning to rank.</span> <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;"> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.</span>
-<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani</span>
+<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani.</span>
 * <span style=" font-family: 'verdana'; font-size: 18px;">Scaling hierarchical coreference with homomorphic compression.</span> <b>AKBC'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
 * <span style=" font-family: 'verdana'; font-size: 18px;">Game theoretic antibody design.</span> <b> AAMAS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
 ) <br />

@@ -26,48 +26,48 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 Joint Workshop on 
 Autonomous Agents for Social Good <b>(AASG 2019)</b>.
  <a href="http://swetapanda.github.io/menu/Game_theory_ab_design.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
- \
+ 
 
 * <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda. Women In Machine Learning Workshop <b>(WiML 2018)</b>.</div>
-\
+
 
 * <div style="text-align: justify"><b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. <a href=""><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
 
 * <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. <a href="https://www.ijcai.org/proceedings/2018/0667.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
  
 * <div style="text-align: justify"><b>Integrating Machine Learning With Structural Modeling To Increase HIV Neutralization Breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. <a href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
  
 * <div style="text-align: justify"><b>Near-optimal Interdiction Of Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. <a href="http://www.auai.org/uai2017/proceedings/papers/62.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
-\
+
  
  
 * <div style="text-align: justify"><b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. <a href="http://www.vorobeychik.com/2015/abdesign.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
  
 * <div style="text-align: justify"> <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract, Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
 Spring Symposium on Applied Computational Game Theory. </div>
-\
+
 
 * <div style="text-align: justify"><b>Robust Optic Nerve Segmentation On Clinically Acquired CT.</b> Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman. Conference on International Society for Optics and Photonics
 <b>(SPIE 2014)</b>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
 
 * <div style="text-align: justify"> <b>Evaluation Of Multi-atlas Label Fusion For MRI Orbital Segmentation.</b> Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
 A. Smith, Bennett A. Landman. Journal of Medical Imaging <b> (JMI 2014)</b>. 
  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
- \
+ 
 
 * <div style="text-align: justify"><b>Robust Optic Nerve Segmentation On Clinically Acquired CT.</b> Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. Journal of Medical Imaging <b>(JMI 2014)</b>.  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
 
 * <div style="text-align: justify"><b>Regression Forest Region Recognition Enhances Multi-atlas Spleen Labeling.</b> Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman. MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
-\
+
  
 
 

@@ -21,17 +21,17 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 * <div style="text-align: justify"><b>Game Theoretic Antibody Design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
 Joint Workshop on 
-Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[<b>PDF</b>]</span>](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
-) </div>
+Autonomous Agents for Social Good <b>(AASG 2019)</b>.
+ <a href="http://swetapanda.github.io/menu/Game_theory_ab_design.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
 
 * <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda. Women In Machine Learning Workshop <b>(WiML 2018)</b>.</div>
 
-* <div style="text-align: justify"><b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()</div>
+* <div style="text-align: justify"><b>Algorithms For Large Scale Adversarial Decision Problems.</b> Swetasudha Panda. Ph.D. Dissertation. <a href=""><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
 
-* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:uvay10AkKTMJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_Sl6s:AAGBfm0AAAAAX67Xj6u8qx_k7hTPQc434NEVMSDGxqcu&scisig=AAGBfm0AAAAAX67Xj-wsxdpU_U3-k3AInwJJtMxjTlT4&scisf=4&ct=citation&cd=-1&hl=en)</div>
+* <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. <a href="https://www.ijcai.org/proceedings/2018/0667.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
  
-* <div style="text-align: justify"><b>Integrating Machine Learning With Structural Modeling To Increase HIV Neutralization Breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:Tap6WoW2jw8J:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_S0OA:AAGBfm0AAAAAX67XyOCBc-NhuMNOYzc8VXX-wtx8SFmC&scisig=AAGBfm0AAAAAX67XyH5x0vEKJCvMzFzSosANv81nJI1N&scisf=4&ct=citation&cd=-1&hl=en)</div>
-
+* <div style="text-align: justify"><b>Integrating Machine Learning With Structural Modeling To Increase HIV Neutralization Breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. <a href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
+ 
 * <div style="text-align: justify"><b>Near-optimal Interdiction Of Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:yj1XI_-XVfsJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_S_oY:AAGBfm0AAAAAX67X5oaGHh-a_B_Wu-PpE6Kk370sqfSX&scisig=AAGBfm0AAAAAX67X5rP4f-P1R9T1ThqkIwn6Njsy9JBS&scisf=4&ct=citation&cd=-1&hl=en)</div>
 
 

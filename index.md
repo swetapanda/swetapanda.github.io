@@ -55,7 +55,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. Journal of Me
 
 
 * <b>Regression forest region recognition enhances multi-atlas spleen labeling.</b> Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
-Bennett A. Landman.  <b>(MICCAI 2013)</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br />Challenge Workshop on Segmentation: Algorithms, Theory and Applications. [<span style="color:blue">[<b>BibTex</b>]</span>]()
+Bennett A. Landman.  <b>(MICCAI 2013)</b> Challenge Workshop on Segmentation: Algorithms, Theory and Applications. [<span style="color:blue">[<b>PDF</b>]</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
 
 
 

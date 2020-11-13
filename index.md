@@ -8,7 +8,7 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.
+* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. 14th ACM International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. To appear.</div>
 
 * <b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. 15th Women in Machine Learning Workshop <b>(WiML 2020)</b>.
 

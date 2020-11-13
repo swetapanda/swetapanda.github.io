@@ -1,16 +1,16 @@
 ---
 layout: page
 ---
-* <red>Online Post-Processing In Rankings For Fair Utility Maximization. </red> <i>The 14th ACM International Conference On Web Search And Data Mining </i> <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan.
+* Online Post-Processing In Rankings For Fair Utility Maximization. <i>The 14th ACM International Conference On Web Search And Data Mining </i> <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan.
 * Fair Online Post-Processing for Black-Box ML Screening Systems.<b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan.
-* Unlocking Fairness: A Trade-off Revisited. <b>NeurIPS'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.</span>
-* <span style="font-family: 'verdana'; font-size: 18px;">Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</span> <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /><span style="font-family: 'verdana'; font-size: 12px;"> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.</span>
-<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani.</span>
-* <span style=" font-family: 'verdana'; font-size: 18px;">Scaling Hierarchical Coreference With Homomorphic Compression.</span> <b>AKBC'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br /><span style="font-family: 'verdana'; font-size: 12px;">Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.</span>
-* <span style=" font-family: 'verdana'; font-size: 18px;">Game theoretic antibody design.</span> <b> AAMAS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
+* Unlocking Fairness: A Trade-off Revisited. <b>NeurIPS'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br />Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan.
+* Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank. <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.
+Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani.
+* Scaling Hierarchical Coreference With Homomorphic Compression.<b>AKBC'19 </b> [<img src="pdf_icon.png" width="4%" height="4%">](https://openreview.net/pdf?id=H1gwRx5T6Q)<br />Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.
+* Game theoretic antibody design. <b> AAMAS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/Game_theory_ab_design.pdf
 ) <br />
- <span style="font-family: 'verdana'; font-size: 12px;">Workshop on AI for Social Good.</span>
-<span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.</span>
+Workshop on AI for Social Good.
+Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
 * <span style=" font-family: 'verdana'; font-size: 18px;">Scalable initial state interdiction for factored MDPs.</span> <b> NeurIPS'18</b> <br />
 <span style="font-family: 'verdana'; font-size: 12px;">Women in Machine Learning Workshop. </span>
 <span style="font-family: 'verdana'; font-size: 12px;">Swetasudha Panda.</span>

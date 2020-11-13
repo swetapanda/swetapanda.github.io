@@ -25,6 +25,8 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda. 13th Women in Machine Learning Workshop <b>(WiML 2018)</b>.
 
+* <b>Algorithms For Large Scale Adversarial Decision Problems</b> Swetasudha Panda. Ph.D. Dissertation. [<span style="color:blue">[<b>PDF</b>]</span>]()
+
 * <b>Scalable initial state interdiction for factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. 27th International Joint Conference on Artificial Intelligence <b>(IJCAI 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ijcai.org/proceedings/2018/0667.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>]()
  
 * <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>BibTex</b>]</span>]()

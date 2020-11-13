@@ -9,8 +9,8 @@ My research interests span algorithmic fairness, machine learning, stochastic pl
 
 # Publications
 
-* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21) </b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. <br />
-* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b><b>NeurIPS'20 </b> Women in Machine Learning Workshop. Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. <br />
+* <b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan.The 14th ACM International Conference On Web Search And Data Mining <b>(WSDM'21)</b>. <br />
+* <b>Fair Online Post-Processing for Black-Box ML Screening Systems.</b>Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan.<b>NeurIPS'20 </b> Women in Machine Learning Workshop.<br />
 * <b>Unlocking Fairness: A Trade-off Revisited.</b><b>NeurIPS'19 </b> [[<span style="color:blue">PDF</span>]](https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf)<br />Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. <br />
 *<b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b> <b> NeurIPS'19</b>[<img src="pdf_icon.png" width="4%" height="4%">](http://swetapanda.github.io/menu/robust19.pdf)<br /> Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy.
 Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani.

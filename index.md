@@ -36,13 +36,8 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[<span style="color:blue">[
 
 * <b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:FbvxWk9XFBUJ:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_S5hM:AAGBfm0AAAAAX67X_hOl2ecapnPTrePM5BdJI3dqC4NM&scisig=AAGBfm0AAAAAX67X_n_0wjf2ECL_MAKFGftuB5czEwVK&scisf=4&ct=citation&cd=-1&hl=en)
 
-
-* <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik.<b> AAAI 2015 </b>  
+* <b>Stackelberg Games For Antibody Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Extended abstract at the 29th Conference on Artificial Intelligence <b>(AAAI 2015)</b>  and in AAAI 2015
 Spring Symposium on Applied Computational Game Theory. 
-
-
-* Designing Vaccines That Are Robust To Virus Escape.<b>AAAI'15</b> <br />
-Swetasudha Panda and Yevgeniy Vorobeychik.
 
 * <b>Robust Optic Nerve Segmentation On Clinically Acquired CT.</b> Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman. Conference on International Society for Optics and Photonics

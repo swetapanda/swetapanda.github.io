@@ -3,7 +3,7 @@ layout: page
 ---
 <img style="float: right;" src="assets/img/profile_picture_2.jpg" width="32%" height="32%">
 <div style="text-align: justify"> I am a research scientist at the
- <a href="https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7"><span style="color:blue"><span style="color:blue">Machine Learning Research Group, Oracle Labs</span></span></a>. Previously, I received a Ph.D. in Computer Science from [<span style="color:blue">Vanderbilt University</span>](https://engineering.vanderbilt.edu/eecs/), where I was advised by [<span style="color:blue">Yevgeniy Vorobeychik</span>](http://vorobeychik.com/).
+ <a href="https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7"><span style="color:blue"><span style="color:blue">Machine Learning Research Group, Oracle Labs</span></span></a>. Previously, I received a Ph.D. in Computer Science from <a href="https://engineering.vanderbilt.edu/eecs/"><span style="color:blue">Vanderbilt University</span></span></a>, where I was advised by [<span style="color:blue">Yevgeniy Vorobeychik</span>](http://vorobeychik.com/).
 I graduated with B.Tech. in Electrical Engineering from [<span style="color:blue">Indian Institute of Technology, Kharagpur</span>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. in 2017 and at  [<span style="color:blue">Max Planck Institute</span>](https://www.mpi-magdeburg.mpg.de/csc) in 2011.
 My research interests span algorithmic fairness, machine learning, stochastic planning and computational game theory. </div>
 

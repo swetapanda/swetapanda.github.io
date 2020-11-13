@@ -42,13 +42,13 @@ Spring Symposium on Applied Computational Game Theory.
 * Designing vaccines that are robust to virus escape.<b>AAAI'15</b> <br />
 Swetasudha Panda and Yevgeniy Vorobeychik.
 
-* Robust optic nerve segmentation on clinically acquired CT. <b>SPIE'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
-Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
-Bennett A. Landman.
+* <b>Robust optic nerve segmentation on clinically acquired CT.</b> Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
+Bennett A. Landman. Conference on International Society for Optics and Photonics
+<b>(SPIE 2014)</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)
 
-* Evaluation of multi-atlas label fusion for MRI orbital segmentation. <b> JMI'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
-Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
-A. Smith, Bennett A. Landman.
+
+* <b>Evaluation of multi-atlas label fusion for MRI orbital segmentation.</b> Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
+A. Smith, Bennett A. Landman. Journal of Medical Imaging <b> (JMI 2014)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)
 
 * Robust optic nerve segmentation on clinically acquired CT.<b> JMI'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.

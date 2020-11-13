@@ -29,25 +29,32 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.[[<span style="color:blue">
  
 * <b>Integrating machine learning with structural modeling to increase HIV neutralization breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable) [<span style="color:blue">[<b>Bibtex</b>]</span>]()
 
-* Near-optimal interdiction of factored MDPs. <b>UAI'17</b> [<img src="pdf_icon.png" width="4%" height="4%">](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
+* Near-optimal interdiction of factored MDPs. <b>UAI'17</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://www.auai.org/uai2017/proceedings/papers/62.pdf)<br />
 Swetasudha Panda and Yevgeniy Vorobeychik.
-* Stackelberg games for vaccine design. <b>AAMAS'15</b> [<img src="pdf_icon.png" width="4%" height="4%">](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
+
+* Stackelberg games for vaccine design. <b>AAMAS'15</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://www.vorobeychik.com/2015/abdesign.pdf)<br />
 Swetasudha Panda and Yevgeniy Vorobeychik.
+
 * Stackelberg games for antibody design.<b> AAAI'15 </b>  <br />
 Spring Symposium on Applied Computational Game Theory. 
 Swetasudha Panda and Yevgeniy Vorobeychik.
+
 * Designing vaccines that are robust to virus escape.<b>AAAI'15</b> <br />
 Swetasudha Panda and Yevgeniy Vorobeychik.
-* Robust optic nerve segmentation on clinically acquired CT. <b>SPIE'14</b> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
+
+* Robust optic nerve segmentation on clinically acquired CT. <b>SPIE'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 Swetasudha Panda, Andrew J. Asman, Michael P. DeLisi, Louise A. Mawn, Robert L. Galloway,
 Bennett A. Landman.
-* Evaluation of multi-atlas label fusion for MRI orbital segmentation. <b> JMI'14</b> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
+
+* Evaluation of multi-atlas label fusion for MRI orbital segmentation. <b> JMI'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280790/pdf/JMI-001-024002.pdf)<br />
 Swetasudha Panda, Andrew J. Asman, Shweta P. Khare, Lindsey Thompson, Louise A. Mawn, Seth
 A. Smith, Bennett A. Landman.
-* Robust optic nerve segmentation on clinically acquired CT.<b> JMI'14</b> [<img src="pdf_icon.png" width="4%" height="4%">](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
+
+* Robust optic nerve segmentation on clinically acquired CT.<b> JMI'14</b> [<span style="color:blue">[<b>PDF</b>]</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4013110/pdf/nihms550000.pdf)<br />
 Swetasudha Panda, Robert A. Harrigan, Andrew J. Asman, Michael P. DeLisi, Benjamin C. W.
 Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman.
-* Regression forest region recognition enhances multi-atlas spleen labeling.  <b>MICCAI'13</b> [<img src="pdf_icon.png" width="4%" height="4%">](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br />Challenge Workshop on Segmentation: Algorithms, Theory and Applications. 
+
+* Regression forest region recognition enhances multi-atlas spleen labeling.  <b>MICCAI'13</b> [<span style="color:blue">[<b>PDF</b>]</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)<br />Challenge Workshop on Segmentation: Algorithms, Theory and Applications. 
 Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
 Bennett A. Landman.
 

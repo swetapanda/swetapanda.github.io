@@ -52,7 +52,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. Journal of Me
 
 
 * <b>Regression Forest Region Recognition Enhances Multi-atlas Spleen Labeling.</b> Bo Li, Swetasudha Panda, Zhoubing Xu, Andrew J. Asman, Peter L. Shanahan, Richard G. Abramson,
-Bennett A. Landman.  <b>(MICCAI 2013)</b> Challenge Workshop on Segmentation: Algorithms, Theory and Applications. [<span style="color:blue">[<b>PDF</b>]</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:nqGgdl5ZPs4J:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_diVI:AAGBfm0AAAAAX67YkVID6AG6kGHypXadEJ5205mFchV5&scisig=AAGBfm0AAAAAX67YkT2_X3aJ2gyguDbPsAu3PF3zVkOe&scisf=4&ct=citation&cd=-1&hl=en)
+Bennett A. Landman. MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>. [<span style="color:blue">[<b>PDF</b>]</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf)[<span style="color:blue">[<b>BibTex</b>]</span>](https://scholar.googleusercontent.com/scholar.bib?q=info:nqGgdl5ZPs4J:scholar.google.com/&output=citation&scisdr=CgVQeAxNEI_lmV_diVI:AAGBfm0AAAAAX67YkVID6AG6kGHypXadEJ5205mFchV5&scisig=AAGBfm0AAAAAX67YkT2_X3aJ2gyguDbPsAu3PF3zVkOe&scisf=4&ct=citation&cd=-1&hl=en)
 
 
 

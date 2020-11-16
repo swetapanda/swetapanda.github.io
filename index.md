@@ -7,7 +7,7 @@ I am a research scientist at the [<span style="color:blue">Machine Learning Rese
 I graduated with B.Tech. in Electrical Engineering from [<span style="color:blue">Indian Institute of Technology, Kharagpur</span>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. in 2017 and at the  [<span style="color:blue">Max Planck Institute</span>](https://www.mpi-magdeburg.mpg.de/csc) in 2011.
 My research interests span fairness-aware machine learning, responsible AI, algorithms for social good, stochastic planning and computational game theory.
 
-[<span style="color:blue">webpage</span>](https://swetapanda.github.io/)
+[<span style="color:blue">https://swetapanda.github.io/</span>](https://swetapanda.github.io/)
 
 # Publications
 

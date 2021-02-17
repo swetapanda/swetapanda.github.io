@@ -25,7 +25,7 @@ My research interests span fairness-aware machine learning, algorithms for socia
 * <div style="text-align: justify"><b>Game Theoretic Antibody Design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
 Joint Workshop on 
 Autonomous Agents for Social Good <b>(AASG 2019)</b>.
- <a href="http://swetapanda.github.io/menu/Game_theory_ab_design.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
+ <a href="http://swetapanda.github.io/menu/Game_theory_ab_design.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href="http://swetapanda.github.io/menu/AASG_Sweta_Panda.pdf"><span style="color:blue">[<b>Talk</b>]</span></a></div>
  
 
 * <div style="text-align: justify"><b>Scalable Initial State Interdiction For Factored MDPs.</b> Swetasudha Panda. Women In Machine Learning Workshop <b>(WiML 2018)</b>.</div>

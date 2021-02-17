@@ -11,7 +11,7 @@ My research interests span fairness-aware machine learning, algorithms for socia
 
 * <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 
-* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women In Machine Learning Workshop <b>(WiML 2020)</b>.<a href="http://swetapanda.github.io/menu/WiML20.pdf"><span style="color:blue">[<b>poster</b>]</span></div>
+* <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women In Machine Learning Workshop <b>(WiML 2020)</b>.<a href="http://swetapanda.github.io/menu/WiML20.pdf"><span style="color:blue">[<b>poster</b>]</span></a></div>
 
 * <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
  <a href="https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>

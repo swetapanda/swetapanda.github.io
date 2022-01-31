@@ -9,7 +9,7 @@ My research interests span fairness-aware machine learning, algorithms for socia
 
 # Publications
 
-* <div style="text-align: justify"><b>Debiasing Pre-Trained Sentence Encoders with Word Dropouts.</b> Swetasudha Panda, Michael Wick, Ari Kobren. NeurIPS Data-Centric AI Workshop <b>(DCAI 2021)</b>. </div>
+* <div style="text-align: justify"><b>Debiasing Pre-Trained Sentence Encoders with Word Dropout.</b> Swetasudha Panda, Michael Wick, Ari Kobren. NeurIPS Data-Centric AI Workshop <b>(DCAI 2021)</b>. </div>
 
 * <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 

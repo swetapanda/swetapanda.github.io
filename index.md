@@ -7,8 +7,7 @@ I am a research scientist at the [<span style="color:blue">Machine Learning Rese
 I graduated with B.Tech. in Electrical Engineering from [<span style="color:blue">Indian Institute of Technology, Kharagpur</span>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. during summer 2017 and at  [<span style="color:blue">Max Planck Institute</span>](https://www.mpi-magdeburg.mpg.de/csc) during summer 2011.
 My research interests span fairness-aware machine learning, algorithms for social good, stochastic planning and computational game theory.
 
-<br>
-<br>
+
 
 
 

@@ -46,18 +46,18 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. <br>Journal o
 Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div><br>
 
 # Program Committee/ Service
-* <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI</b> 2022/2021/2020/2014</div>
-* <div style="text-align: justify">Socially Responsible Machine Learning Workshop. <b>ICLR</b> 2022</div>
-* <div style="text-align: justify">BlackboxNLP Workshop. <b>EMNLP</b> 2022/2021</div>
-* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT</b> 2022</div>
-* <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES</b> 2022</div>
-* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS</b> 2021/2017</div>
-* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML</b> 2021/2019 </div>
-* <div style="text-align: justify">Responsible AI Workshop. <b>ICLR</b> 2021</div>
-* <div style="text-align: justify">International Joint Conference on Artificial Intelligence. <b>IJCAI</b> 2018</div>
-* <div style="text-align: justify">Economics and Computation. <b>EC</b> 2018/2016</div>
-* <div style="text-align: justify">ACM Workshop on Artificial Intelligence and Security. <b>AISec</b> 2017</div>
-* <div style="text-align: justify">Uncertainty in Artificial Intelligence. <b>UAI</b> 2014</div>
+* <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI</b> '22/'21/'20/'14</div>
+* <div style="text-align: justify">Socially Responsible Machine Learning Workshop. <b>ICLR</b> '22</div>
+* <div style="text-align: justify">BlackboxNLP Workshop. <b>EMNLP</b> '22/'21</div>
+* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT</b> '22</div>
+* <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES</b> '22</div>
+* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS</b> '21/'17</div>
+* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML</b> '21/'19 </div>
+* <div style="text-align: justify">Responsible AI Workshop. <b>ICLR</b> '21</div>
+* <div style="text-align: justify">International Joint Conference on Artificial Intelligence. <b>IJCAI</b> '18</div>
+* <div style="text-align: justify">Economics and Computation. <b>EC</b> '18/'16</div>
+* <div style="text-align: justify">ACM Workshop on Artificial Intelligence and Security. <b>AISec</b> '17</div>
+* <div style="text-align: justify">Uncertainty in Artificial Intelligence. <b>UAI</b> '14</div>
 
 
  

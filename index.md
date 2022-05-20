@@ -13,10 +13,9 @@ My research interests span fairness-aware machine learning, algorithms for socia
 
 # Publications
 
-* <div style="text-align: justify"><b>Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models.</b><br>Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick. 
-Association for Computational Linguistics <b>(ACL 2022)</b>. <a href="https://aclanthology.org/2022.acl-long.247/"><span style="color:blue">[<b>PDF</b>]</span></a><a href="https://aclanthology.org/2022.acl-long.247.bib"><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
+* <div style="text-align: justify"><b>Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models.</b><br>Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick.<br>Association for Computational Linguistics <b>(ACL 2022)</b>. <a href="https://aclanthology.org/2022.acl-long.247/"><span style="color:blue">[<b>PDF</b>]</span></a><a href="https://aclanthology.org/2022.acl-long.247.bib"><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 
-* <div style="text-align: justify"><b>Debiasing Pre-Trained Sentence Encoders with Word Dropout.</b> Swetasudha Panda, Michael Wick, Ari Kobren. NeurIPS Data-Centric AI Workshop <b>(DCAI 2021)</b>. </div>
+* <div style="text-align: justify"><b>Debiasing Pre-Trained Sentence Encoders with Word Dropout.</b> <br>Swetasudha Panda, Michael Wick, Ari Kobren. <br>NeurIPS Data-Centric AI Workshop <b>(DCAI 2021)</b>. </div>
 
 * <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. Web Search And Data Mining <b>(WSDM 2021)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 

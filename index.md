@@ -46,22 +46,17 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. <br>Journal o
 Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div><br>
 
 # Program Committee/ Service
-* <div style="text-align: justify"><b>AAAI'22</b> Conference on Artificial Intelligence</div>
-* <div style="text-align: justify"><b>ICLR'22 Socially Responsible ML Workshop</b></div>
-* <div style="text-align: justify"><b>ACM FAccT'22</b> Conference on Fainress, Accountability and Transparency</div>
-* <div style="text-align: justify"><b>ACM AIES'22</b> AI Ethics and Society</div>
-* <div style="text-align: justify"><b>AAAI'21</b> Conference on Artificial Intelligence</div>
-* <div style="text-align: justify"><b>AAMAS'21</b> Conference on Autonomous Agents and MultiAgent Systems</div>
-* <div style="text-align: justify"><b>WiML'21</b> Women in ML Workshop</div>
+* <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI2022, 2021, 2020, 2014.</b></div>
+* <div style="text-align: justify">Socially Responsible ML Workshop. <b>ICLR 2022</b></div>
+* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT 2022</b></div>
+* <div style="text-align: justify">ACM Conference on AI Ethics and Society. <b>AIES 2022</b></div>
+* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS 2021, 2017</b></div>
+* <div style="text-align: justify">Women in ML Workshop. <b>WiML 2021, 2019</b> </div>
 * <div style="text-align: justify"><b>ICLR'21 Responsible AI Workshop</b></div>
-* <div style="text-align: justify"><b>AAAI'20</b></div>
-* <div style="text-align: justify"><b>WiML'19</b></div>
 * <div style="text-align: justify"><b>IJCAI'18</b></div>
 * <div style="text-align: justify"><b>EC'18</b></div>
 * <div style="text-align: justify"><b>AISec'17</b></div>
-* <div style="text-align: justify"><b>AAMAS'17</b></div>
 * <div style="text-align: justify"><b>EC'16</b></div>
-* <div style="text-align: justify"><b>AAAI'14</b> Subreviewer</div>
 * <div style="text-align: justify"><b>UAI'14</b> Subreviewer</div>
 
 

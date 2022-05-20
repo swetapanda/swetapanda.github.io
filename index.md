@@ -6,9 +6,7 @@ layout: page
 I am a research scientist at the [<b>Machine Learning Research Group, Oracle Labs</b>](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7). 
 
 <br>Previously, I received a Ph.D. in Computer Science from [<b>Vanderbilt University</b>](https://engineering.vanderbilt.edu/eecs/), where I was advised by [<b>Yevgeniy Vorobeychik</b>](http://vorobeychik.com/).
-I graduated with B.Tech. in Electrical Engineering from [<b>Indian Institute of Technology, Kharagpur</b>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. during summer 2017 and at  [<b>Max Planck Institute</b>](https://www.mpi-magdeburg.mpg.de/csc) during summer 2011.
-
-<br>My research interests span fairness-aware machine learning and natural language processing, stochastic planning and computational game theory.
+I graduated with B.Tech. in Electrical Engineering from [<b>Indian Institute of Technology, Kharagpur</b>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. during summer 2017 and at  [<b>Max Planck Institute</b>](https://www.mpi-magdeburg.mpg.de/csc) during summer 2011. My research interests span fairness-aware machine learning and natural language processing, stochastic planning and computational game theory.
 
 
 
@@ -48,6 +46,7 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. <br>Journal o
 Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div><br>
 
 # Program Committee/ Service
+* <div style="text-align: justify"><b>AAAI'22</b></div><br>
 
  
 

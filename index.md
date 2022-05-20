@@ -46,16 +46,16 @@ Yvernault, Robert L. Galloway, Louise A. Mawn, Bennett A. Landman. <br>Journal o
 Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, Theory and Applications <b>(MICCAI SATA 2013)</b>.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.232&rep=rep1&type=pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div><br>
 
 # Program Committee/ Service
-* <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI'22/'21/'20/'14</b></div>
+* <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI'22/21/20/14</b></div>
 * <div style="text-align: justify">Socially Responsible Machine Learning Workshop. <b>ICLR'22</b></div>
-* <div style="text-align: justify">BlackboxNLP Workshop. <b>EMNLP'22/'21</b></div>
+* <div style="text-align: justify">BlackboxNLP Workshop. <b>EMNLP'22/21</b></div>
 * <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT'22</b></div>
 * <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES'22</b></div>
-* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS'21/'17</b></div>
-* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML'21/'19</b> </div>
+* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS'21/17</b></div>
+* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML'21/19</b> </div>
 * <div style="text-align: justify">Responsible AI Workshop. <b>ICLR'21</b></div>
 * <div style="text-align: justify">International Joint Conference on Artificial Intelligence. <b>IJCAI'18</b></div>
-* <div style="text-align: justify">Economics and Computation. <b>EC'18/'16</b></div>
+* <div style="text-align: justify">Economics and Computation. <b>EC'18/16</b></div>
 * <div style="text-align: justify">ACM Workshop on Artificial Intelligence and Security. <b>AISec'17</b></div>
 * <div style="text-align: justify">Uncertainty in Artificial Intelligence. <b>UAI'14</b></div>
 

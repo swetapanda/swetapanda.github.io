@@ -13,19 +13,21 @@ My research interests span fairness-aware machine learning, algorithms for socia
 
 # Publications
 
+* <div style="text-align: justify"><b>Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models</b> Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick. Association for Computational Linguistics <b>(ACL 2022)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
+
 * <div style="text-align: justify"><b>Debiasing Pre-Trained Sentence Encoders with Word Dropout.</b> Swetasudha Panda, Michael Wick, Ari Kobren. NeurIPS Data-Centric AI Workshop <b>(DCAI 2021)</b>. </div>
 
-* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. International Conference On Web Search And Data Mining <b>(WSDM 2021)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
+* <div style="text-align: justify"><b>Online Post-Processing In Rankings For Fair Utility Maximization.</b> Ananya Gupta, Eric Johnson, Justin Payan, Aditya Roy, Ari Kobren, Swetasudha Panda, Michael Wick, Jean-Baptiste Tristan. Web Search And Data Mining <b>(WSDM 2021)</b>. <a href="http://swetapanda.github.io/menu/fairranking.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 
 * <div style="text-align: justify"><b>Fair Online Post-Processing For Black-Box ML Screening Systems.</b> Swetasudha Panda, Ari Kobren, Michael Wick, Jean-Baptiste Tristan. Women In Machine Learning Workshop <b>(WiML 2020)</b>.<a href="http://swetapanda.github.io/menu/WiML20.pdf"><span style="color:blue">[<b>Poster</b>]</span></a></div>
 
-* <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Conference on Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
+* <div style="text-align: justify"><b>Unlocking Fairness: A Trade-off Revisited.</b> Michael L. Wick, Swetasudha Panda,Jean-Baptiste Tristan. Neural Information Processing Systems <b>(NeurIPS 2019) </b>. 
  <a href="https://papers.nips.cc/paper/9082-unlocking-fairness-a-trade-off-revisited.pdf"><span style="color:blue">[<b>PDF</b>]</span></a> <a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
  
 * <div style="text-align: justify"><b>Using Bayes Factors To Control For Fairness: Case Study On Learning To Rank.</b> Swetasudha Panda, Jean-Baptiste Tristan, Michael Wick, Haniyeh Mahmoudian and Pallika Kanani. NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy <b>(Robust AI in FS 2019)</b>. <a href="http://swetapanda.github.io/menu/robust19.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 
 
-* <div style="text-align: justify"><b>Scaling Hierarchical Coreference With Homomorphic Compression.</b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Conference on Automated Knowledge Base Construction <b>(AKBC 2019)</b>. <a href="https://openreview.net/pdf?id=H1gwRx5T6Q"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
+* <div style="text-align: justify"><b>Scaling Hierarchical Coreference With Homomorphic Compression.</b> Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan. Automated Knowledge Base Construction <b>(AKBC 2019)</b>. <a href="https://openreview.net/pdf?id=H1gwRx5T6Q"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
 
 
 * <div style="text-align: justify"><b>Game Theoretic Antibody Design.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe Jr, Jens Meiler and Yevgeniy Vorobeychik.
@@ -46,11 +48,11 @@ Autonomous Agents for Social Good <b>(AASG 2019)</b>.
 * <div style="text-align: justify"><b>Integrating Machine Learning With Structural Modeling To Increase HIV Neutralization Breadth.</b> Swetasudha Panda, Alexander M. Sevy, James E. Crowe, Jr, Jens Meiler, Yevgeniy Vorobeychik. PLOS Computational Biology Journal<b> (PLOS CompBio 2018)</b>. <a href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005999&type=printable"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
 
  
-* <div style="text-align: justify"><b>Near-optimal Interdiction Of Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. <a href="http://www.auai.org/uai2017/proceedings/papers/62.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
+* <div style="text-align: justify"><b>Near-optimal Interdiction Of Factored MDPs.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Uncertainty in Artificial Intelligence <b>(UAI 2017)</b>. <a href="http://www.auai.org/uai2017/proceedings/papers/62.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a> </div>
 
  
  
-* <div style="text-align: justify"><b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. International conference on Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. <a href="http://www.vorobeychik.com/2015/abdesign.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
+* <div style="text-align: justify"><b>Stackelberg Games For Vaccine Design.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Autonomous Agents and MultiAgent Systems <b>(AAMAS 2015)</b>. <a href="http://www.vorobeychik.com/2015/abdesign.pdf"><span style="color:blue">[<b>PDF</b>]</span></a><a href=""><span style="color:blue">[<b>BibTex</b>]</span></a></div>
 
  
 * <div style="text-align: justify"> <b>Designing Vaccines That Are Robust To Virus Escape.</b> Swetasudha Panda and Yevgeniy Vorobeychik. Conference on Artificial Intelligence <b>(AAAI 2015)</b>  (Extended Abstract) and in AAAI 2015

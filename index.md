@@ -47,7 +47,7 @@ Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, T
 
 # Program Committee/ Service
 * <div style="text-align: justify"><b>AAAI'22</b></div>
-* <div style="text-align: justify"><b>ACM ICLR'22 Socially Responsible ML Workshop</b></div>
+* <div style="text-align: justify"><b>ICLR'22 Socially Responsible ML Workshop</b></div>
 * <div style="text-align: justify"><b>ACM FAccT'22</b></div>
 * <div style="text-align: justify"><b>ACM AIES'22</b></div>
 * <div style="text-align: justify"><b>ACM AAAI'21</b></div>
@@ -62,7 +62,7 @@ Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, T
 * <div style="text-align: justify"><b>AAMAS'17</b></div>
 * <div style="text-align: justify"><b>EC'16</b></div>
 * <div style="text-align: justify"><b>AAAI'14</b> Subreviewer</div>
-* <div style="text-align: justify"><b>UAI'14</b>Subreviewer</div>
+* <div style="text-align: justify"><b>UAI'14</b> Subreviewer</div>
 
 
  

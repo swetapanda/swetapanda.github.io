@@ -48,15 +48,15 @@ Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, T
 # Program Committee/ Service
 * <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI</b> 2022/21/20/14</div>
 * <div style="text-align: justify">Socially Responsible Machine Learning Workshop. <b>ICLR</b> 2022</div>
-* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT</b>< 2022</div>
-* <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES</b>< 2022</div>
-* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS</b>< 2021/17</div>
-* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML</b>< 2021/19 </div>
-* <div style="text-align: justify">Responsible AI Workshop. <b>ICLR</b>2021</div>
-* <div style="text-align: justify">International Joint Conference on Artificial Intelligence. <b>IJCAI</b>2018</div>
-* <div style="text-align: justify">Economics and Computation. <b>EC</b>2018/16</div>
-* <div style="text-align: justify">ACM Workshop on Artificial Intelligence and Security. <b>AISec</b>2017</div>
-* <div style="text-align: justify">Uncertainty in Artificial Intelligence. <b>UAI</b>2014</div>
+* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT</b> 2022</div>
+* <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES</b> 2022</div>
+* <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS</b> 2021/17</div>
+* <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML</b> 2021/19 </div>
+* <div style="text-align: justify">Responsible AI Workshop. <b>ICLR</b> 2021</div>
+* <div style="text-align: justify">International Joint Conference on Artificial Intelligence. <b>IJCAI</b> 2018</div>
+* <div style="text-align: justify">Economics and Computation. <b>EC</b> 2018/16</div>
+* <div style="text-align: justify">ACM Workshop on Artificial Intelligence and Security. <b>AISec</b> 2017</div>
+* <div style="text-align: justify">Uncertainty in Artificial Intelligence. <b>UAI</b> 2014</div>
 
 
  

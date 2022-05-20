@@ -5,7 +5,7 @@ layout: page
 <img style="float: right;" src="assets/img/profile_picture_22.jpeg" width="33%" height="33%">
 I am a research scientist at the [<b>Machine Learning Research Group, Oracle Labs</b>](https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:7). Previously, I received a Ph.D. in Computer Science from [<b>Vanderbilt University</b>](https://engineering.vanderbilt.edu/eecs/), where I was advised by [<b>Yevgeniy Vorobeychik</b>](http://vorobeychik.com/).
 I graduated with B.Tech. in Electrical Engineering from [<b>Indian Institute of Technology, Kharagpur</b>](http://www.iitkgp.ac.in/department/EE). I interned at Apple Inc. during summer 2017 and at  [<b>Max Planck Institute</b>](https://www.mpi-magdeburg.mpg.de/csc) during summer 2011.
-My research interests span fairness-aware machine learning and natural language processing, stochastic planning and computational game theory.
+<br>My research interests span fairness-aware machine learning and natural language processing, stochastic planning and computational game theory.
 
 
 

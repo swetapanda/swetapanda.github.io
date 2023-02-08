@@ -50,7 +50,7 @@ Bennett A. Landman. <br>MICCAI Challenge Workshop on Segmentation: Algorithms, T
 * <div style="text-align: justify">Conference on Artificial Intelligence. <b>AAAI'22/21/20/14</b></div>
 * <div style="text-align: justify">Socially Responsible Machine Learning Workshop. <b>ICLR'22</b></div>
 * <div style="text-align: justify">BlackboxNLP Workshop. <b>EMNLP'22/21</b></div>
-* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT'22</b></div>
+* <div style="text-align: justify">ACM Conference on Fairness, Accountability and Transparency. <b>FAccT'22/23</b></div>
 * <div style="text-align: justify">AAAI/ACM Conference on Artificial Intelligence, Ethics and Society. <b>AIES'22</b></div>
 * <div style="text-align: justify">Autonomous Agents and MultiAgent Systems. <b>AAMAS'21/17</b></div>
 * <div style="text-align: justify">Women in Machine Learning Workshop. <b>WiML'21/19</b> </div>
